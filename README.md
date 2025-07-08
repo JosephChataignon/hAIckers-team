@@ -1,6 +1,13 @@
 # hAIckers-team
 
 Repository for hAIckers team in the "rAIse your hack" hackaton, july 2025.
+This is a prototype that runs on Snowflake's Streamlit apps.
+
+## How to test the demo
+
+Snowflake Streamlit apps require to be logged in to Snwoflake to access them. Credentials were provided to the hackaton jury
+under the field "Additional information". Contact our team (through lablab or @josephchataignonunibe on Discord) 
+if you cannot find the credentials, we will quickly give you access.
 
 ## The project
 
@@ -20,4 +27,10 @@ It follows good practices and is with no doubt the best use of Snowflake technol
 kind of use case. The Groq and Meta combination for AI is also well executed, as it makes the
 application responsive and accurate at the same time.
 
+## How to run the app
 
+Simply import the repository in Snowflake Streamlit apps.
+You will need to give external access permissions for two
+URLs: 'api.pexels.com' and 'api.groq.com'.
+
+After that, just press Start.
